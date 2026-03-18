@@ -12,9 +12,9 @@ This project converts meeting audio into structured notes using speech-to-text t
 
 ##  Tech Stack
 - Python
-- Whisper (or whatever you used)
-- Pyannote (if used)
-- FPDF / reportlab (for PDF)
+- Whisper (Speech Recognition)
+- Pyannote (for diarisation)
+- FPDF (for PDF)
 
 ##  How it works
 1. Input meeting audio
