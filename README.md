@@ -1,4 +1,4 @@
-# meeting-notes-generator-project
+
 # Automatic Meeting Notes Generator
 
 ##  Overview
